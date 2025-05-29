@@ -7,8 +7,7 @@ This project automates the process of fetching live cryptocurrency market data u
 ## 📁 Repository Structure
 
 ```
-crypto-api-automation/
-├── Automating_API_Extraction.ipynb            # Original notebook
+Crypto_API_Full_Python/          
 ├── Automating_API_Extraction_Documented.ipynb # Fully documented version
 ├── README.md                                   # GitHub project description
 └── data/                                       # (Optional) Folder to store output CSV files
